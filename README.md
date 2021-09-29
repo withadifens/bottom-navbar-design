@@ -1,7 +1,6 @@
 # demo_apps
 
-<img src="https://github.com/adifens/demo_apps/blob/master/Screenshot_1632903473.png" height=500>
-
+![img](https://github.com/adifens/demo_apps/blob/master/Screenshot%20from%202021-09-29%2015-58-26.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
